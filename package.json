@@ -1,0 +1,19 @@
+{
+  "name": "bea",
+  "version": "0.1.0",
+  "description": "Open source telegram bot built using telegraf.js",
+  "main": "index.js",
+  "author": "Ooi Yew Shan",
+  "repository": "github:yewshanooi/bea",
+  "homepage": "https://github.com/yewshanooi/bea",
+  "bugs": "https://github.com/yewshanooi/bea/issues",
+  "license": "MIT",
+  "engines": {
+    "node": ">=14.13.1"
+  },
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "node-fetch": "^2.6.7",
+    "telegraf": "^4.10.0"
+  }
+}
